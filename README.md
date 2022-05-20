@@ -1,5 +1,6 @@
 # TO-DO-APP
 In This you can create a Ticket Or you can delete the Ticket.Also you can filter the ticket on the basis of color. In this I am generating unique Id for every Ticket. You can change strip color . On every Ticket lock unlock system if lock the ticket you cannot edit the ticket, first unlock the ticket then you can edit.
 
+# Demonstration
+![Screenshot from 2022-05-20 09-46-14](https://user-images.githubusercontent.com/56158611/169449479-40fe1000-76f8-4d97-b6ae-9db2398096e9.png)
 
-#Demonstration
